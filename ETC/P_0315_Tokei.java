@@ -1,4 +1,4 @@
-package Use_ofBasicgrammar_IF;
+package PRACTICE;
 
 import java.util.Scanner;
 

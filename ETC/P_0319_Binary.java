@@ -1,10 +1,12 @@
+package PRACTICE;
+
 import java.util.Scanner;
 
 /*
 임의의 String 타입의 이진수를 입력받아 1을 더한후, 이진수로 출력하는 코드를 작성하라.
 예)input:1111 => result:10000
 */
-public class Binary {
+public class P_0319_Binary {
 	public static String method(String binary) {
 		String binary2 = "";
 		int num = 0;

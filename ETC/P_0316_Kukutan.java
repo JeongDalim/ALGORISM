@@ -1,4 +1,4 @@
-package Use_ofBasicgrammar_FOR;
+package PRACTICE;
 
 import java.util.Scanner;
 

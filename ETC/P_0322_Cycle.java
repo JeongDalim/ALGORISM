@@ -1,4 +1,4 @@
-package Use_ofBasicgrammar.While;
+package PRACTICE;
 
 import java.util.Scanner;
 
@@ -37,6 +37,7 @@ public class P_0322_Cycle {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("숫자를 입력해주세요:");
 		int n = scn.nextInt();
+		scn.close();
 
 		System.out.println(solution(n));
 

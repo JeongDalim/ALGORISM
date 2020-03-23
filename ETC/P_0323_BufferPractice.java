@@ -1,4 +1,4 @@
-package Use_ofBasicgrammar.While;
+package PRACTICE;
 
 import java.io.BufferedReader;
 import java.io.IOException;
