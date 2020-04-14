@@ -20,9 +20,8 @@ public class P_0318_Fibonacci {
 		for (int i = 0; i < num - 2; i++) {
 			int num2 = FibonacciNumbers.get(i) + FibonacciNumbers.get(i + 1);
 			FibonacciNumbers.add(num2);
-
-			System.out.println(FibonacciNumbers.get(num));
 		}
+		System.out.println(FibonacciNumbers.get(num));
 		scn.close();
 	}
 }

@@ -1,5 +1,5 @@
-
-public class array2 {
+package PRACTICE;
+public class P_0329_Array2 {
 
 	public static void main(String[] args) {
 		int[][] arr = new int[5][5];
