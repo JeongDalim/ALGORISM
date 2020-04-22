@@ -1,3 +1,4 @@
+package HASH;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -14,7 +15,7 @@ import java.util.Set;
 
 //
 
-public class Exam06 {
+public class P_0328Dictionary {
 	static Map <String, Integer> student = new HashMap<String, Integer>();
 	public static void main(String[] args) {
 		
